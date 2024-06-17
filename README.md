@@ -1,5 +1,5 @@
 [![CI status](https://github.com/nextstrain/nextstrain.org/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/nextstrain/nextstrain.org/actions/workflows/ci.yml)
-## [Nextstrain](https://nextstrain.org/)  || [Nextstrain CLI](https://docs.nextstrain.org/projects/cli/en/stable/)  || [Augur](https://docs.nextstrain.org/projects/augur/en/stable/) || [Nextclade](https://clades.nextstrain.org/) || [Auspice](https://docs.nextstrain.org/projects/auspice/en/stable/)  [Nextstrain.org]https://github.com/nextstrain/nextstrain.org)  
+## [Nextstrain](https://nextstrain.org/)  || [Nextstrain CLI](https://docs.nextstrain.org/projects/cli/en/stable/)  || [Augur](https://docs.nextstrain.org/projects/augur/en/stable/) || [Nextclade](https://clades.nextstrain.org/) || [Auspice](https://docs.nextstrain.org/projects/auspice/en/stable/)  [Nextstrain.org](https://github.com/nextstrain/nextstrain.org)  
 ## In GitHub 
  [Nextstrain](https://github.com/nextstrain) || [auspice](https://github.com/nextstrain/auspice) || [augur](https://github.com/nextstrain/augur)  || [ncov
 ](https://github.com/nextstrain/ncov) || [Auspice.us](https://github.com/nextstrain/auspice.us) || [Nextclade](https://github.com/nextstrain/nextclade) || [Nextstrain CLI](https://github.com/nextstrain/cli) || 
