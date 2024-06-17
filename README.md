@@ -1,5 +1,5 @@
 [![CI status](https://github.com/nextstrain/nextstrain.org/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/nextstrain/nextstrain.org/actions/workflows/ci.yml)
-## [Nextstrain](https://nextstrain.org/)  
+## [Nextstrain](https://nextstrain.org/)  || [Nextstrain CLI](https://docs.nextstrain.org/projects/cli/en/stable/)  || [Augur](https://docs.nextstrain.org/projects/augur/en/stable/) || [Nextclade](https://clades.nextstrain.org/) || [Auspice](https://docs.nextstrain.org/projects/auspice/en/stable/)  || 
 # Nextstrain.org
 
 Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.
