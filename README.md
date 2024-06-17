@@ -1,5 +1,5 @@
 [![CI status](https://github.com/nextstrain/nextstrain.org/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/nextstrain/nextstrain.org/actions/workflows/ci.yml)
-
+## [Nextstrain](https://nextstrain.org/)  
 # Nextstrain.org
 
 Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.
