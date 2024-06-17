@@ -1,8 +1,25 @@
 [![CI status](https://github.com/nextstrain/nextstrain.org/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/nextstrain/nextstrain.org/actions/workflows/ci.yml)
-## [Nextstrain](https://nextstrain.org/)  || [Nextstrain CLI](https://docs.nextstrain.org/projects/cli/en/stable/)  || [Augur](https://docs.nextstrain.org/projects/augur/en/stable/) || [Nextclade](https://clades.nextstrain.org/) || [Auspice](https://docs.nextstrain.org/projects/auspice/en/stable/)  ||
+## [Nextstrain](https://nextstrain.org/)  || [Nextstrain CLI](https://docs.nextstrain.org/projects/cli/en/stable/)  || [Augur](https://docs.nextstrain.org/projects/augur/en/stable/) || [Nextclade](https://clades.nextstrain.org/) || [Auspice](https://docs.nextstrain.org/projects/auspice/en/stable/)  || [Auspice.us](https://github.com/nextstrain/auspice.us) || [Nextclade](https://github.com/nextstrain/nextclade) || [Nextstrain CLI](https://github.com/nextstrain/cli) || [Nextstrain.org](https://github.com/nextstrain/nextstrain.org)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##
 # In GitHub 
- [Nextstrain](https://github.com/nextstrain)(Nextstrain.org)
+ [Nextstrain](https://github.com/nextstrain) || [auspice](https://github.com/nextstrain/auspice) || [augur](https://github.com/nextstrain/augur)  || [ncov
+](https://github.com/nextstrain/ncov)
 
 Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.
 If you have any questions, or simply want to say hi, please give us a shout at hello@nextstrain.org or introduce yourself at [discussion.nextstrain.org](https://discussion.nextstrain.org). We welcome contributions to Nextstrain; see our [contributing documentation](https://docs.nextstrain.org/en/latest/guides/contribute/) to learn more.
