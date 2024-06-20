@@ -3,7 +3,7 @@
 ## In GitHub: 
 ## [Nextstrain](https://github.com/nextstrain) || [auspice](https://github.com/nextstrain/auspice) || [augur](https://github.com/nextstrain/augur)  || [ncov](https://github.com/nextstrain/ncov) || [Auspice.us](https://github.com/nextstrain/auspice.us) || [Nextclade](https://github.com/nextstrain/nextclade)  
 ## [Nextstrain CLI](https://github.com/nextstrain/cli) || [Nextstrain.org](https://github.com/nextstrain/nextstrain.org)  
-## [my zika](https://nextstrain.org/community/pengsihua2023/zika)   
+## [my zika](https://nextstrain.org/community/pengsihua2023/zika)   || [教程](https://outlookuga-my.sharepoint.com/personal/daileyco_uga_edu/_layouts/15/onedrive.aspx?ct=1718897852050&or=OWA%2DNT%2DMail&cid=b8b4a42a%2D9ef2%2D6402%2De91e%2D8fe02fa240cc&ga=1&id=%2Fpersonal%2Fdaileyco%5Fuga%5Fedu%2FDocuments%2FUGA%2DNextstrain%2DWorkshop%2FTutorial%2FNexstrain%5FTutorial%2Ehtml&parent=%2Fpersonal%2Fdaileyco%5Fuga%5Fedu%2FDocuments%2FUGA%2DNextstrain%2DWorkshop%2FTutorial&parentview=0)   
 
 Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.
 If you have any questions, or simply want to say hi, please give us a shout at hello@nextstrain.org or introduce yourself at [discussion.nextstrain.org](https://discussion.nextstrain.org). We welcome contributions to Nextstrain; see our [contributing documentation](https://docs.nextstrain.org/en/latest/guides/contribute/) to learn more.
